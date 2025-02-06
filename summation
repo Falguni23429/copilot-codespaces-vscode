@@ -1,0 +1,4 @@
+package summation
+import java,util,scanner;
+public class Summation{
+public static void main(
